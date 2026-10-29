@@ -1,8 +1,8 @@
 ## Halo!👋 Saya Muhamad Farel Nabil
 📋 Informasi Pribadi :
-Nama : Muhamad Farel Nabil
-NIM : 240605110243
-Kelas : Mobile Practicum E
+## Nama : Muhamad Farel Nabil
+## NIM : 240605110243
+## Kelas : Mobile Practicum E
 
 
 ## 📑 Daftar Tugas Praktikum & Project
