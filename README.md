@@ -5,45 +5,26 @@ NIM : 240605110243
 Kelas : Mobile Practicum E
 
 
-🎓 **Undergraduate Computer Science & Information Systems Student**  
-💻 Focused on **Mobile Development (Flutter)**, **Data Analysis/AI**, and **3D Computer Graphics (Blender)**.
+## 📑 Daftar Tugas Praktikum & Project
 
----
-
-### 🛠️ Tech Stack & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=multiplayerln-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiplayerln-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multiplayerln-beep&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📌 Current Projects
-- 📱 **Steam Deals Tracker:** Aplikasi Flutter pelacak diskon game & perbandingan harga historis (*All-Time Low*).
-- 🤖 **SIMPUL:** Web app untuk ekstraksi ringkasan berita & analisis sentimen berbasis NLP/IndoBERT.
-- 🎨 **Kalam An-Nur:** Proyek animasi 3D fantasy short menggunakan Blender.
-
----
-
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+| No | Modul / Tugas | Topik & Deskripsi Utama | Status | Link Folder |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | **Modul 1** | Pengenalan Dart & Dasar Sintaks | Selesai | [📂 Lihat](./modul_1) |
+| 02 | **Modul 2** | Collection & Control Flow di Dart | Selesai | [📂 Lihat](./modul_2) |
+| 03 | **Modul 3** | Object-Oriented Programming (OOP) | Selesai | [📂 Lihat](./modul_3) |
+| 04 | **Modul 4** | Pengenalan Layout & Widget Dasar Flutter | Selesai | [📂 Lihat](./modul_4) |
+| 05 | **Modul 5** | Widget Lanjutan & Manajemen Aset Gambar | Selesai | [📂 Lihat](./modul_5) |
+| 06 | **Modul 6** | State Management Dasar (`StatefulWidget`) | Selesai | [📂 Lihat](./modul_6) |
+| 07 | **Modul 7** | Form Handling & Input User | Selesai | [📂 Lihat](./modul_7) |
+| 08 | **Modul 8** | Penerapan ListView & GridView | Selesai | [📂 Lihat](./modul_8) |
+| 09 | **Modul 9** | Asynchronous & Reading Local JSON | Selesai | [📂 Lihat](./modul_9) |
+| 10 | **Modul 10** | Basic Navigation & Push/Pop Screen | Selesai | [📂 Lihat](./modul_10) |
+| 11 | **Modul 11** | Advanced Routing & Passing Data | Selesai | [📂 Lihat](./modul_11) |
+| 🎯 | **UTS** | **Steam Deals Tracker App** | Selesai | [🎮 Lihat Proyek](./uts_steam_diskon) |
+| 12 | **Modul 12** | Local Storage & Database (SQLite/SharedPref) | *In Progress* | [📂 Lihat](./modul_12) |
+| 13 | **Modul 13** | State Management Lanjutan (Provider/Bloc) | *In Progress* | [📂 Lihat](./modul_13) |
+| 14 | **Modul 14** | Integration & Final Polishing | *In Progress* | [📂 Lihat](./modul_14) |
+| 🏆 | **UAS** | **Project Akhir Pemrograman Mobile** | *Upcoming* | 🔒 |
 <!--
 **multiplayerln-beep/multiplayerln-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
