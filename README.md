@@ -18,7 +18,7 @@ Kelas : Mobile Practicum E |
 | 07 | **Modul 7** | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | Selesai | [📂 Lihat Modul 7](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_7) |
 | 08 | **Modul 8** | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | Selesai | [📂 Lihat Modul 8](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_8) |
 | 09 | **Modul 9** | StatefulWidget | Selesai | [📂 Lihat Modul 9](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_9) |
-| 10 | **Modul 10** | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di FlutterDesain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | Selesai | [📂 Lihat Modul 10](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_10) |
+| 10 | **Modul 10** | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | Selesai | [📂 Lihat Modul 10](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_10) |
 | 11 | **Modul 11** | Manajemen State dengan GetX | Selesai | [📂 Lihat Modul 11](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_11) |
 | 🎯 | **UTS** | **Steam Deals Tracker App** | Selesai | [🎮 Lihat Proyek UTS](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/uts_steam_diskon) |
 | 12 | **Modul 12** | Akses Lokasi dengan GPS di Flutter | Selesai | 🔒 |
