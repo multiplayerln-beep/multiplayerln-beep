@@ -21,8 +21,8 @@ Kelas : Mobile Practicum E |
 | 10 | **Modul 10** | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | Selesai | [📂 Lihat Modul 10](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_10) |
 | 11 | **Modul 11** | Manajemen State dengan GetX | Selesai | [📂 Lihat Modul 11](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_11) |
 | 🎯 | **UTS** | **Steam Deals Tracker App** | Selesai | [🎮 Lihat Proyek UTS](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/uts_steam_diskon) |
-| 12 | **Modul 12** | Akses Lokasi dengan GPS di Flutter | Selesai | 🔒 |
-| 13 | **Modul 13** | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | Selesai | 🔒 |
+| 12 | **Modul 12** | Akses Lokasi dengan GPS di Flutter | Selesai | [📂 Lihat Modul 12](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_12) |
+| 13 | **Modul 13** | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | Selesai | [📂 Lihat Modul 13](https://github.com/multiplayerln-beep/Mobile-Programming-Practicum-E/tree/main/modul_13) |
 | 🏆 | **UAS** | **Project Akhir Pemrograman Mobile** | *Belum Ada* | 🔒 |
 <!--
 **multiplayerln-beep/multiplayerln-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
